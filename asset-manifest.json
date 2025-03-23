@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RA-Portfolio/static/css/main.fffb672c.css",
-    "main.js": "/RA-Portfolio/static/js/main.9807ba23.js",
+    "main.js": "/RA-Portfolio/static/js/main.ab4bdc78.js",
     "static/js/415.4d6acbeb.chunk.js": "/RA-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/RA-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/cafe-1.jpg": "/RA-Portfolio/static/media/cafe-1.c635962f8684a5c8c7a8.jpg",
@@ -11,8 +11,10 @@
     "static/media/candy2.jpg": "/RA-Portfolio/static/media/candy2.5c200f46001812f5054b.jpg",
     "static/media/candy1.jpg": "/RA-Portfolio/static/media/candy1.6bcf5c009bc50c694f54.jpg",
     "static/media/cafeH.png": "/RA-Portfolio/static/media/cafeH.57dc03334df4d7db1294.png",
+    "static/media/Adaptability.jpg": "/RA-Portfolio/static/media/Adaptability.dd68569dcd10145fcc57.jpg",
     "static/media/candygram.png": "/RA-Portfolio/static/media/candygram.5d87e7af2179d1126c59.png",
     "static/media/Aleksander-Marquez-Resume-RA.pdf": "/RA-Portfolio/static/media/Aleksander-Marquez-Resume-RA.bc6244e12a432c879754.pdf",
+    "static/media/DISCIPLINE.jpg": "/RA-Portfolio/static/media/DISCIPLINE.ad40294cd00202918d53.jpg",
     "static/media/home-main.svg": "/RA-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/RA-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/driving-future.png": "/RA-Portfolio/static/media/driving-future.4f4b904afdef05e6ec99.png",
@@ -21,12 +23,12 @@
     "static/media/pre.svg": "/RA-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/RA-Portfolio/index.html",
     "main.fffb672c.css.map": "/RA-Portfolio/static/css/main.fffb672c.css.map",
-    "main.9807ba23.js.map": "/RA-Portfolio/static/js/main.9807ba23.js.map",
+    "main.ab4bdc78.js.map": "/RA-Portfolio/static/js/main.ab4bdc78.js.map",
     "415.4d6acbeb.chunk.js.map": "/RA-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/RA-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fffb672c.css",
-    "static/js/main.9807ba23.js"
+    "static/js/main.ab4bdc78.js"
   ]
 }

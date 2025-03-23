@@ -1,29 +1,32 @@
 {
   "files": {
     "main.css": "/RA-Portfolio/static/css/main.fffb672c.css",
-    "main.js": "/RA-Portfolio/static/js/main.ee37ac6e.js",
+    "main.js": "/RA-Portfolio/static/js/main.056d1044.js",
     "static/js/415.4d6acbeb.chunk.js": "/RA-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/RA-Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/leaf.png": "/RA-Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/RA-Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/RA-Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/RA-Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/cafe-1.jpg": "/RA-Portfolio/static/media/cafe-1.c635962f8684a5c8c7a8.jpg",
+    "static/media/driving-2.jpg": "/RA-Portfolio/static/media/driving-2.de2ea7d306943f2d2bc5.jpg",
+    "static/media/cafe-2.jpg": "/RA-Portfolio/static/media/cafe-2.ee7d27ded54f1684f179.jpg",
+    "static/media/driving-1.jpg": "/RA-Portfolio/static/media/driving-1.d4d3ea984410ded04d89.jpg",
+    "static/media/candy2.jpg": "/RA-Portfolio/static/media/candy2.5c200f46001812f5054b.jpg",
+    "static/media/candy1.jpg": "/RA-Portfolio/static/media/candy1.6bcf5c009bc50c694f54.jpg",
+    "static/media/cafeH.png": "/RA-Portfolio/static/media/cafeH.57dc03334df4d7db1294.png",
+    "static/media/candygram.png": "/RA-Portfolio/static/media/candygram.5d87e7af2179d1126c59.png",
     "static/media/Aleksander-Marquez-Resume-RA.pdf": "/RA-Portfolio/static/media/Aleksander-Marquez-Resume-RA.bc6244e12a432c879754.pdf",
-    "static/media/blog.png": "/RA-Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/RA-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/RA-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/RA-Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/driving-future.png": "/RA-Portfolio/static/media/driving-future.4f4b904afdef05e6ec99.png",
     "static/media/home-bg.jpg": "/RA-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/RA-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/RA-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/RA-Portfolio/index.html",
     "main.fffb672c.css.map": "/RA-Portfolio/static/css/main.fffb672c.css.map",
-    "main.ee37ac6e.js.map": "/RA-Portfolio/static/js/main.ee37ac6e.js.map",
+    "main.056d1044.js.map": "/RA-Portfolio/static/js/main.056d1044.js.map",
     "415.4d6acbeb.chunk.js.map": "/RA-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/RA-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fffb672c.css",
-    "static/js/main.ee37ac6e.js"
+    "static/js/main.056d1044.js"
   ]
 }

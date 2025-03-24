@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RA-Portfolio/static/css/main.fffb672c.css",
-    "main.js": "/RA-Portfolio/static/js/main.01173f48.js",
+    "main.js": "/RA-Portfolio/static/js/main.74faa068.js",
     "static/js/415.4d6acbeb.chunk.js": "/RA-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/RA-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/cafe-1.jpg": "/RA-Portfolio/static/media/cafe-1.c635962f8684a5c8c7a8.jpg",
@@ -17,18 +17,19 @@
     "static/media/DISCIPLINE.jpg": "/RA-Portfolio/static/media/DISCIPLINE.ad40294cd00202918d53.jpg",
     "static/media/home-main.svg": "/RA-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/RA-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/DormDash.png": "/RA-Portfolio/static/media/DormDash.9859ec8b065a3adcae66.png",
     "static/media/driving-future.png": "/RA-Portfolio/static/media/driving-future.4f4b904afdef05e6ec99.png",
     "static/media/home-bg.jpg": "/RA-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/RA-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/RA-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/RA-Portfolio/index.html",
     "main.fffb672c.css.map": "/RA-Portfolio/static/css/main.fffb672c.css.map",
-    "main.01173f48.js.map": "/RA-Portfolio/static/js/main.01173f48.js.map",
+    "main.74faa068.js.map": "/RA-Portfolio/static/js/main.74faa068.js.map",
     "415.4d6acbeb.chunk.js.map": "/RA-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/RA-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fffb672c.css",
-    "static/js/main.01173f48.js"
+    "static/js/main.74faa068.js"
   ]
 }
